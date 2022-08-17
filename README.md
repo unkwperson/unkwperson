@@ -41,8 +41,8 @@ Python       3 hours         ████████████             50
 
 📈 My github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=unkwperson&show_icons=true&theme=gotham" alt="unkwperson" />
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=unkwperson&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="unkperson github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkwperson&layout=compact&theme=gotham&hide_border=true" /> |
+| ------------- | ------------- |
 
 
 
